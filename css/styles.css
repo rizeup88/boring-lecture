@@ -28,21 +28,21 @@ body {
   text-align: center;
 }
 
-h1.intro {
+.about .intro h1 {
   color: #4e5a6e;
   font-size: 30px;
   font-family: "Ubuntu";
   text-align: center;
 }
 
-h2.intro {
+.about .intro h2 {
   color: #4e5a6e;
   font-size: 22px;
   font-family: "Ubuntu";
   text-align: center;
 }
 
-p.intro {
+.about .intro p {
   color: #000000;
   font-family: "Domus";
   text-align: center;
