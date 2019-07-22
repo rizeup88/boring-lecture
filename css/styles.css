@@ -18,7 +18,6 @@ body {
 
 .header img {
   display: block;
-  min-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -47,6 +46,16 @@ body {
   color: #000000;
   font-family: "Domus";
   text-align: center;
+}
+
+.yellow-background {
+  background-color: yellow;
+  border: 1px solid red;
+}
+
+.normal-background {
+  background-color: none;
+  border: none;
 }
 
 footer {
